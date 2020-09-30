@@ -57,7 +57,8 @@
             this.button1.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button1.Location = new System.Drawing.Point(48, 193);
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Location = new System.Drawing.Point(49, 156);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 24);
             this.button1.TabIndex = 0;
@@ -73,7 +74,8 @@
             this.button2.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button2.Location = new System.Drawing.Point(129, 193);
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Location = new System.Drawing.Point(130, 156);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 2;
@@ -89,7 +91,8 @@
             this.button3.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button3.Location = new System.Drawing.Point(210, 193);
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Location = new System.Drawing.Point(211, 156);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 4;
@@ -105,7 +108,8 @@
             this.button4.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button4.Location = new System.Drawing.Point(48, 223);
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button4.Location = new System.Drawing.Point(49, 186);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 6;
@@ -121,7 +125,8 @@
             this.button5.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button5.Location = new System.Drawing.Point(129, 223);
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button5.Location = new System.Drawing.Point(130, 186);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 8;
@@ -137,7 +142,8 @@
             this.button6.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button6.Location = new System.Drawing.Point(210, 223);
+            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button6.Location = new System.Drawing.Point(211, 186);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 23);
             this.button6.TabIndex = 10;
@@ -153,7 +159,8 @@
             this.button7.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button7.Location = new System.Drawing.Point(48, 252);
+            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button7.Location = new System.Drawing.Point(49, 215);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 23);
             this.button7.TabIndex = 12;
@@ -169,7 +176,8 @@
             this.button8.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button8.Location = new System.Drawing.Point(129, 252);
+            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button8.Location = new System.Drawing.Point(130, 215);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 23);
             this.button8.TabIndex = 14;
@@ -185,7 +193,8 @@
             this.button9.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button9.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button9.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button9.Location = new System.Drawing.Point(210, 252);
+            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button9.Location = new System.Drawing.Point(211, 215);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 23);
             this.button9.TabIndex = 16;
@@ -201,7 +210,8 @@
             this.button0.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.button0.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.button0.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.button0.Location = new System.Drawing.Point(129, 281);
+            this.button0.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button0.Location = new System.Drawing.Point(130, 244);
             this.button0.Name = "button0";
             this.button0.Size = new System.Drawing.Size(75, 23);
             this.button0.TabIndex = 18;
@@ -217,7 +227,8 @@
             this.plus.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.plus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.plus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.plus.Location = new System.Drawing.Point(291, 193);
+            this.plus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.plus.Location = new System.Drawing.Point(292, 156);
             this.plus.Name = "plus";
             this.plus.Size = new System.Drawing.Size(75, 23);
             this.plus.TabIndex = 19;
@@ -233,7 +244,8 @@
             this.minus.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.minus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.minus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.minus.Location = new System.Drawing.Point(291, 223);
+            this.minus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.minus.Location = new System.Drawing.Point(292, 186);
             this.minus.Name = "minus";
             this.minus.Size = new System.Drawing.Size(75, 23);
             this.minus.TabIndex = 20;
@@ -249,7 +261,8 @@
             this.product.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.product.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.product.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.product.Location = new System.Drawing.Point(291, 252);
+            this.product.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.product.Location = new System.Drawing.Point(292, 215);
             this.product.Name = "product";
             this.product.Size = new System.Drawing.Size(75, 23);
             this.product.TabIndex = 21;
@@ -265,7 +278,9 @@
             this.division.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.division.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.division.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.division.Location = new System.Drawing.Point(291, 281);
+            this.division.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.division.Location = new System.Drawing.Point(292, 244);
+            this.division.Margin = new System.Windows.Forms.Padding(0);
             this.division.Name = "division";
             this.division.Size = new System.Drawing.Size(75, 23);
             this.division.TabIndex = 22;
@@ -275,14 +290,16 @@
             // 
             // clear
             // 
-            this.clear.BackColor = System.Drawing.Color.Gainsboro;
+            this.clear.BackColor = System.Drawing.Color.Firebrick;
             this.clear.FlatAppearance.BorderColor = System.Drawing.SystemColors.ButtonFace;
             this.clear.FlatAppearance.BorderSize = 0;
             this.clear.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.clear.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.clear.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.clear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.clear.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.clear.Location = new System.Drawing.Point(49, 310);
+            this.clear.Location = new System.Drawing.Point(50, 273);
+            this.clear.Margin = new System.Windows.Forms.Padding(0);
             this.clear.Name = "clear";
             this.clear.Size = new System.Drawing.Size(75, 23);
             this.clear.TabIndex = 23;
@@ -298,7 +315,8 @@
             this.euro.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.euro.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.euro.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.euro.Location = new System.Drawing.Point(129, 310);
+            this.euro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.euro.Location = new System.Drawing.Point(130, 273);
             this.euro.Name = "euro";
             this.euro.Size = new System.Drawing.Size(75, 23);
             this.euro.TabIndex = 24;
@@ -308,9 +326,10 @@
             // 
             // richTextBox1
             // 
+            this.richTextBox1.BackColor = System.Drawing.SystemColors.MenuBar;
             this.richTextBox1.Location = new System.Drawing.Point(49, 48);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(317, 122);
+            this.richTextBox1.Size = new System.Drawing.Size(317, 86);
             this.richTextBox1.TabIndex = 25;
             this.richTextBox1.Text = "";
             // 
@@ -322,7 +341,8 @@
             this.equals.FlatAppearance.CheckedBackColor = System.Drawing.SystemColors.ButtonFace;
             this.equals.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
             this.equals.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.equals.Location = new System.Drawing.Point(49, 281);
+            this.equals.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.equals.Location = new System.Drawing.Point(50, 244);
             this.equals.Name = "equals";
             this.equals.Size = new System.Drawing.Size(75, 23);
             this.equals.TabIndex = 26;
@@ -333,9 +353,13 @@
             // comma
             // 
             this.comma.BackColor = System.Drawing.Color.Gainsboro;
-            this.comma.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comma.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.comma.FlatAppearance.BorderColor = System.Drawing.Color.Gainsboro;
+            this.comma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.comma.Font = new System.Drawing.Font("Microsoft Sans Serif", 6F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comma.ForeColor = System.Drawing.Color.Black;
             this.comma.ImageAlign = System.Drawing.ContentAlignment.TopRight;
-            this.comma.Location = new System.Drawing.Point(210, 281);
+            this.comma.Location = new System.Drawing.Point(211, 244);
             this.comma.Margin = new System.Windows.Forms.Padding(0);
             this.comma.Name = "comma";
             this.comma.Size = new System.Drawing.Size(75, 23);
@@ -349,7 +373,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(403, 357);
+            this.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.ClientSize = new System.Drawing.Size(403, 319);
             this.Controls.Add(this.comma);
             this.Controls.Add(this.equals);
             this.Controls.Add(this.richTextBox1);
